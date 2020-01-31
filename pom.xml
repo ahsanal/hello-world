@@ -214,9 +214,9 @@
   </prerequisites>
 	  <distributionManagement> 
 		<snapshotRepository>
-		<id>maven-snapshots</id>
+		<id>deploymentrepo</id>
 		<name>Internal Releases</name>
-		<url>http://104.197.26.112:8081/repository/maven-snapshots/</url>
+		<url>http://104.197.26.112:8081/repository/deploymentrepo/</url>
 	</snapshotRepository>
 	
 </distributionManagement>
